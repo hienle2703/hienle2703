@@ -4,3 +4,5 @@ Welcome to my humble profile 🤔 I am a React Native Fresher from Viet Nam. I a
 You can see what I am currently up to on https://www.linkedin.com/in/hi%E1%BB%83n-l%C3%AA-45b5101b4/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hienle2703)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienle2703&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
