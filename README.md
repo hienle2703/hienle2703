@@ -20,6 +20,11 @@ Facebook: facebook.com/h1enle
 
 
 ⚡ Currently I am **contributing** this following project:
+Project :octocat:	⭐ ⭐	Issues 🐛	Open PRs 🔔	Closed PRs 🔥
+| Project ⭐⭐ | Issues 🐛    |
+| ------------- | ------------- |
+| [Travel Project](https://github.com/hienle2703/travel_project)  | Content Cell  |
+
 
 - 🔭 I am currently working on React Native in Ho Chi Minh, Viet Nam.
 - 🌱 I am currently learning React Native, Typescript.
