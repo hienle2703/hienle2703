@@ -21,4 +21,4 @@ Facebook: facebook.com/h1enle
 🤔 I am looking for help with Math, React Native Redux-Saga.
 💬 Ask me about React Native, Javascript.
 📫 How to reach me: Facebook.
-⚡ Favorite Quote: "Imagination is more important than knowledge" - Einstein.
+⚡ Favorite Quote: "Imagination is more important than knowledge" - Einstein
