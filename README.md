@@ -2,8 +2,8 @@
 
 **Welcome to my humble profile** 🤔 
 
-I am a React Native Fresher from Viet Nam. I am interested in, write about and develop software solutions for and with JavaScript, React Native, Firebase,... at the moment.
-From being curious with Web development to .NET C# and now I am focusing to React Native. I was starting to love React Native along with interesting animation, beatiful interface,... so I decided to spend a lot of time on learning React Native.
+I am a Mobile Developer (mostly React Native) from Viet Nam. I am interested in, write about and develop software solutions for mobile platforms and with TypeScript, React Native, ... at the moment. And I'm learning Kotlin and Flutter also.
+From being curious with Web development to .NET C# and now I am focusing to React Native. I was starting to love React Native along with interesting logics & mindset, beatiful interface, fast development... so I decided to spend a lot of time on working with React Native.
 
 You can see what I am currently up to on linkedin.com/in/hienlvt
 
@@ -26,11 +26,10 @@ Facebook: facebook.com/h1enle
 | [Travel Project](https://github.com/hienle2703/travel_project)  | Content Cell  |
 
 
-- 🔭 I am currently working on React Native in Ho Chi Minh, Viet Nam.
-- 🌱 I am currently learning React Native, Typescript.
-- 👯 I am looking for a fresher position with React Native.
-- 🤔 I am looking for help with Math, React Native Redux-Saga.
-- 💬 Ask me about React Native, Javascript.
+- 🔭 I am currently working at NashTech.
+- 🌱 I am currently learning Kotlin, Flutter.
+- 🤔 I am looking for help with Math, Kotlin, Dart, native Android.
+- 💬 Ask me anything about React Native.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/h1enle)
 - ⚡ Favorite Quote: 
 > Imagination is more important than knowledge - Einstein
